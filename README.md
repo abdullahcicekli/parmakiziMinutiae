@@ -1,4 +1,4 @@
-# Parmak İzi Minuate Noktaları
+# Parmak İzi Minutiae Noktaları
 
 ![Başlıksız-1](https://user-images.githubusercontent.com/48344066/85639874-ced88c00-b692-11ea-867f-a49c1909ce37.jpg)
 
